@@ -12,3 +12,4 @@ MANIFEST
 Makefile.PL
 README
 html/Callbacks/MandatorySubject/Ticket/Create.html/BeforeCreate
+html/Callbacks/MandatorySubject/SelfService/Create.html/BeforeCreate
