@@ -1,5 +1,8 @@
 Revision history for RT-Extension-MandatorySubject
 
+0.03    Mon, 03 Aug 2009 09:04:48 +0200
+        Fix bad module name in tests
+
 0.02    Fri, 03 Jul 2009 11:56:02 +0200
         Do the check also for SelfService (require RT 3.8.3 at least)
 
