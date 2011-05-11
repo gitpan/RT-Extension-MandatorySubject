@@ -9,11 +9,11 @@ RT::Extension::MandatorySubject - Enforce users to fill the subject when creatin
 
 =head1 VERSION
 
-Version 0.03
+Version 0.04
 
 =cut
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 
 =head1 SYNOPSIS
@@ -69,7 +69,7 @@ L<http://search.cpan.org/dist/RT-Extension-MandatorySubject>
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright 2008 Emmanuel Lacour, all rights reserved.
+Copyright 2008-2011 Emmanuel Lacour, all rights reserved.
 
 This program is free software; you can redistribute it and/or modify it
 under the same terms as Perl itself.

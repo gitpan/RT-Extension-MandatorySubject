@@ -1,5 +1,9 @@
 Revision history for RT-Extension-MandatorySubject
 
+0.04    Wed, 11 May 2011 17:30:46 +0200
+        Add a callback to check subject in QuickCreate
+        Fix Plugins option example in doc (two many "()")
+
 0.03    Mon, 03 Aug 2009 09:04:48 +0200
         Fix bad module name in tests
 
