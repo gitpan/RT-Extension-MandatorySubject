@@ -1,4 +1,6 @@
 Revision history for RT-Extension-MandatorySubject
+0.05    Mon, 12 Dec 2011 14:11:11 +0100
+        Upgrade build and install framework for RT4
 
 0.04    Wed, 11 May 2011 17:30:46 +0200
         Add a callback to check subject in QuickCreate
